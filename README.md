@@ -4,7 +4,8 @@ Nella prima lezione di alternanza vi è stato illustrato e spiegato l'argomento 
 Il drone su cui è stato assegnato il lavoro è il **EACHINE 250 RACER**.
 ![eachine-racer-250](https://cloud.githubusercontent.com/assets/25583168/22690138/86da2b82-ed34-11e6-9dc5-917cd254123c.jpg)
 
-Le caratteristiche di questo drone sono:
+#Le caratteristiche di questo drone sono:
+
 - MARCA: Eachine;
 - MODELLO: Racer 250;
 - DIMENSIONI: 1220 x 233 x 50;
