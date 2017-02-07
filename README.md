@@ -5,22 +5,11 @@ Il drone su cui è stato assegnato il lavoro è il **EACHINE 250 RACER**.
 ![eachine-racer-250](https://cloud.githubusercontent.com/assets/25583168/22690138/86da2b82-ed34-11e6-9dc5-917cd254123c.jpg)
 
 Le caratteristiche di questo drone sono:
-- MARCA: Eachine
-- MODELLO: Racer 250
-- DIMENSIONI: 1220 x 233 x 50
-- PESO:  400 grams
-- MOTORE: Brushless 2204 2300kV
-- DURATA BATTERIA: 10-14m
-- PREZZO: 93-262
-
-
-
-
-
-
-
+- MARCA: Eachine;
+- MODELLO: Racer 250;
+- DIMENSIONI: 1220 x 233 x 50;
+- PESO:  400g;
+- MOTORE: Brushless 2204 2300kV;
+- DURATA BATTERIA: 10-14m;
+- PREZZO: 93-262€;
 ![2017-02-07-photo-00000218 1](https://cloud.githubusercontent.com/assets/25583168/22689965/a33065a4-ed33-11e6-97f9-51e47df2788e.jpg)
-
-
-
-
