@@ -11,9 +11,7 @@ Le caratteristiche di questo drone sono:
 - PESO:  400g;
 - MOTORE: Brushless 2204 2300kV;
 - DURATA BATTERIA: 10-14m;
-- PREZZO: 93-262€;
-
-                                              
+- PREZZO: 93-262€;                                         
                                                I TRUMUN
 ![2017-02-07-photo-00000218 1](https://cloud.githubusercontent.com/assets/25583168/22689965/a33065a4-ed33-11e6-97f9-51e47df2788e.jpg)
 
