@@ -12,7 +12,7 @@ Le caratteristiche di questo drone sono:
 - MOTORE: Brushless 2204 2300kV;
 - DURATA BATTERIA: 10-14m;
 - PREZZO: 93-262€;                                         
-                                               I TRUMUN
+                                             **I TRUMUN**
 ![2017-02-07-photo-00000218 1](https://cloud.githubusercontent.com/assets/25583168/22689965/a33065a4-ed33-11e6-97f9-51e47df2788e.jpg)
 
 La scadenza stabilita per terminare il lavoro assegnatoci è stata fissata per il  giorno VENERDI 18 FEBBRAIO 2017; inoltre è necessario eseguire i seguenti obiettivi entro la data prestabilita:
