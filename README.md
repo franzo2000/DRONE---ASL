@@ -1,3 +1,4 @@
 # **DRONE**
-In quest'esperienza l'obiettivo è capire il funzionamento di un drone e da quali componenti è fatto. Ci sono 3 gruppi composti da 12 persone della 3A AUTOMAZIONE e della 3A ELETTRONICA.
-Nella prima lezione di alternanza si è trattato l'argomento dei droni spiegato con video e presentazione Power Point.
+Lo scopo di quest'esperienza è capire il funzionamento di un drone e  studiare i da cui componenti è costituito. 
+Nella prima lezione di alternanza vi è stato illustrato e spiegato l'argomento dei droni, attraverso video e presentazione Power Point. Una volta terminato questo passaggio, vi è stata la formazione dei gruppi di lavoro composti da 7/8 alunni della classe 3A AUTOMAZIONE e 4 alunni della classe 3A ELETTRONICA.
+
