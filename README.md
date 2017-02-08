@@ -29,8 +29,7 @@ La scadenza stabilita per terminare il lavoro assegnatoci è stata fissata per i
     - Video 3, "COSE CINESI" -> VOTO 8/10. Recensione completa di un drone,si possono migliorare le riprese.
 - **L'artigiano** ha prodotto dei cartellini con scritto il nome del gruppo, il nome della persona ed il ruolo.
 - **Il reporter** ha fatto una foto di gruppo ed ha creato delle slide di presentazione di esso. In più ha documentato le prime ore di     lavoro con delle foto:
-
-
+![file_002](https://cloud.githubusercontent.com/assets/25583168/22732366/385d6b4e-edee-11e6-9f16-f396b3174d5e.jpeg)
 - **Il mediatore** ha organizzato la comunicazione con un gruppo Whatsapp, ed ha creato un gruppo su google Drive per far si che tutti i   membri possano avere a disposizione i lavori di ognuno.
 - **Il nerd** ha creato account su Githup in cui ha scritto una presentazione iniziale del progetto ed ha caricato il tutto sul file       README.md.
 - **Il pilota** ha recuperato un drone d'allenamento.
