@@ -2,7 +2,7 @@
 Lo scopo di quest'esperienza è capire il funzionamento di un drone e  studiarne i componenti di cui è costituito. 
 Nella prima lezione di alternanza vi è stato illustrato e spiegato l'argomento dei droni, attraverso video e presentazione Power Point. Una volta terminato questo passaggio, vi è stata la formazione dei gruppi di lavoro composti da 7/8 alunni della classe 
 3°A AUTOMAZIONE e 4 alunni della classe 3°A ELETTRONICA. Una volta terminata la composizione dei gruppi, sono stati esposti e assegnati i ruoli che ogni membro del gruppo dovrà svolgere. I ruoli sono: pilota(1), copilota(2), artigiano(1), mediatore(2), reporter(2), surfatore del web(2), nerd(2). Il drone su cui è stato assegnato il lavoro è il **EACHINE 250 RACER**.
-![img-20170208-wa0002](https://cloud.githubusercontent.com/assets/25583168/22731550/52ccf20e-edeb-11e6-9717-0c287d030cb2.jpg)
+![bea7653a-3eb6-438b-990c-09d07ea4163e](https://cloud.githubusercontent.com/assets/25583168/22731689/cbc909ea-edeb-11e6-8947-bc37a971713f.jpg)
 #Le caratteristiche di questo drone sono:
 
 - MARCA: Eachine;
