@@ -20,3 +20,12 @@ Nella prima lezione di alternanza vi è stato illustrato e spiegato l'argomento 
 La scadenza stabilita per terminare il lavoro assegnatoci è stata fissata per il  giorno VENERDI 18 FEBBRAIO 2017; inoltre è necessario seguire i seguenti obiettivi entro la data prestabilita:
 - rientrare nell'investimento del budget economico;
 - creare un drone di alto valore nel mercato dei droni da corsa.
+
+ **Lavoro SURFATORE DEL WEB**
+ 
+Il surfatore del web aveva il compito di trovare delle risorse sui droni, commentarle e darle un voto.
+1)  droni -> VOTO 10/10. Sito completo, ti permette di acquistare droni e componenti, consultare recensioni con spiegazioni approfondite                            su come fare volare un drone ed elenca le norme di sicurezza;
+2) Rensioni droni -> VOTO 8/10. Sito specializzato in recensioni, test e prove sui migliori droni in commercio,propone dei tutorial                                       interessanti,però si occupa solo di droni professionali,quindi non adeguato per dilettanti; 
+3) Video 3, "COSE CINESI" -> VOTO 8/10. Recensione completa di un drone,si possono migliorare le riprese.
+
+
