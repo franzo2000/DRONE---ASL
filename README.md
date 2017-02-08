@@ -15,7 +15,6 @@ Nella prima lezione di alternanza vi è stato illustrato e spiegato l'argomento 
 - PREZZO: 93-262€;                                         
 
 #I TRUMUN                                                                                                                                                                                                       
-#MANCA FOTO
 
 La scadenza stabilita per terminare il lavoro assegnatoci è stata fissata per il  giorno VENERDI 18 FEBBRAIO 2017; inoltre è necessario seguire i seguenti obiettivi entro la data prestabilita:
 - rientrare nell'investimento del budget economico;
@@ -34,4 +33,7 @@ La scadenza stabilita per terminare il lavoro assegnatoci è stata fissata per i
 - **Il mediatore** ha organizzato la comunicazione con un gruppo Whatsapp, ed ha creato un gruppo su google Drive per far si che tutti i   membri possano avere a disposizione i lavori di ognuno.
 - **Il nerd** ha creato account su Githup in cui ha scritto una presentazione iniziale del progetto ed ha caricato il tutto sul file       README.md.
 - **Il pilota** ha recuperato un drone d'allenamento.
-- **Il copilota** ha cercato i principali software di configurazione dei droni racer come "Drone Racer Setting Manager", "UgCS",           "Freerider", "Open Pilot" elencandone i pregi ed i difetti, ma è stato scelto "CLEANFLIGHT" perchè è un software più leggero e adatto al drone da gara, a diferrenza di altri programmi che erano troppo pesanti e avevano troppe funzioni a noi inutili.
+- **Il copilota** ha cercato i principali software di configurazione dei droni racer come "Drone Racer Setting Manager", "UgCS",           "Freerider", "Open Pilot" elencandone i pregi ed i difetti, ma è stato scelto "CLEANFLIGHT" perchè è un software più leggero e adatto   al drone da gara, a diferrenza di altri programmi che erano troppo pesanti e avevano troppe funzioni a noi inutili.
+
+
+
