@@ -15,7 +15,7 @@ Nella prima lezione di alternanza vi è stato illustrato e spiegato l'argomento 
 - PREZZO: 93-262€;                                         
 
 #I TRUMUN                                                                                                                                                                                                       
-![2017-02-07-photo-00000218 1](https://cloud.githubusercontent.com/assets/25583168/22689965/a33065a4-ed33-11e6-97f9-51e47df2788e.jpg)
+#MANCA FOTO
 
 La scadenza stabilita per terminare il lavoro assegnatoci è stata fissata per il  giorno VENERDI 18 FEBBRAIO 2017; inoltre è necessario seguire i seguenti obiettivi entro la data prestabilita:
 - rientrare nell'investimento del budget economico;
