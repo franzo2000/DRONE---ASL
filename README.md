@@ -23,15 +23,15 @@ La scadenza stabilita per terminare il lavoro assegnatoci è stata fissata per i
 
 # **PRIMA LEZIONE**
 
-*Il surfatore del web** aveva il compito di trovare delle risorse sui droni, commentarle e darle un voto.
-- ABC Droni -> VOTO 10/10. Sito completo, ti permette di acquistare droni e componenti, consultare recensioni con spiegazioni                                      approfondite su come fare volare un drone ed elenca le norme di sicurezza;
-- Rensioni droni -> VOTO 8/10. Sito specializzato in recensioni, test e prove sui migliori droni in commercio,propone dei tutorial                                      interessanti,però si occupa solo di droni professionali,quindi non adeguato per dilettanti; 
-- Video 3, "COSE CINESI" -> VOTO 8/10. Recensione completa di un drone,si possono migliorare le riprese.
-**L'artigiano** ha prodotto dei cartellini con scritto il nome del gruppo, il nome della persona ed il ruolo.
-**Il reporter** ha fatto una foto di gruppo ed ha creato delle slide di presentazione di esso.
-**Il mediatore** ha organizzato la comunicazione con un gruppo Whatsapp, ed ha creato un gruppo su google Drive per far si che tutti i membri possano avere a disposizione i lavori di ognuno.
-**Il nerd** ha creato account su Githup in cui ha scritto una presentazione iniziale del progetto ed ha caricato il tutto sul file README.md.
-**Il pilota** ha recuperato un drone d'allenamento.
-**Il copilota** ha cercato i principali software di configurazione dei droni racer come "Drone Racer Setting Manager", "UgCS", "Freerider", "Open Pilot" elencandone i pregi ed i difetti.
+- **Il surfatore del web** aveva il compito di trovare delle risorse sui droni, commentarle e darle un voto.
+    - ABC Droni -> VOTO 10/10. Sito completo, ti permette di acquistare droni e componenti, consultare recensioni con spiegazioni                                      approfondite su come fare volare un drone ed elenca le norme di sicurezza;
+    - Rensioni droni -> VOTO 8/10. Sito specializzato in recensioni, test e prove sui migliori droni in commercio,propone dei tutorial                                      interessanti,però si occupa solo di droni professionali,quindi non adeguato per dilettanti; 
+    - Video 3, "COSE CINESI" -> VOTO 8/10. Recensione completa di un drone,si possono migliorare le riprese.
+- **L'artigiano** ha prodotto dei cartellini con scritto il nome del gruppo, il nome della persona ed il ruolo.
+- **Il reporter** ha fatto una foto di gruppo ed ha creato delle slide di presentazione di esso. In più ha documentato le prime ore di     lavoro con delle foto:
 
 
+- **Il mediatore** ha organizzato la comunicazione con un gruppo Whatsapp, ed ha creato un gruppo su google Drive per far si che tutti i   membri possano avere a disposizione i lavori di ognuno.
+- **Il nerd** ha creato account su Githup in cui ha scritto una presentazione iniziale del progetto ed ha caricato il tutto sul file       README.md.
+- **Il pilota** ha recuperato un drone d'allenamento.
+- **Il copilota** ha cercato i principali software di configurazione dei droni racer come "Drone Racer Setting Manager", "UgCS",           "Freerider", "Open Pilot" elencandone i pregi ed i difetti, ma è stato scelto "CLEANFLIGHT" perchè è un software più leggero e adatto al drone da gara, a diferrenza di altri programmi che erano troppo pesanti e troppe funzioni a noi inutili.
