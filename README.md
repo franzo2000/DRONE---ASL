@@ -34,5 +34,5 @@ La scadenza stabilita per terminare il lavoro assegnatoci è stata fissata per i
 - **Il copilota** ha cercato i principali software di configurazione dei droni racer come "Drone Racer Setting Manager", "UgCS",           "Freerider", "Open Pilot" elencandone i pregi ed i difetti, ma è stato scelto "CLEANFLIGHT" perchè è un software più leggero e adatto   al drone da gara, a diferrenza di altri programmi che erano troppo pesanti e avevano troppe funzioni a noi inutili.
 
 #**CODICE SORGENTE**
-
+![image](https://cloud.githubusercontent.com/assets/25583168/22732747/acb553c0-edef-11e6-988a-0221db9574cc.png)
 
