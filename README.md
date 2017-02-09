@@ -35,6 +35,6 @@ La scadenza stabilita per terminare il lavoro assegnatoci è stata fissata per i
 
 # **COMMENTO DEL CODICE SORGENTE DI CLEANFLIGHT**
 ![image](https://cloud.githubusercontent.com/assets/25583168/22732747/acb553c0-edef-11e6-988a-0221db9574cc.png)
-Il codice sorgente in informatica è il testo di un algoritmo di un programma scritto in un linguaggio di programmazione.
+Il codice sorgente in informatica è il testo di un algoritmo di un programma scritto in un linguaggio di programmazione. E' scritto con il linguaggio in C, e ci sono dichiarazioni delle variabili. Il file eseguibile del programma si converte in un alfabeto binario, composto da una lunga serie di 0 e 1. Guardando nelle "ISSUES" del sito si vede che ci sono delle discussioni chiamate "Volo autonomo senza alcun input", "dispendio di batteria" ed altri commenti su come far funzionare il programma.
 
 
