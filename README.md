@@ -33,14 +33,8 @@ La scadenza stabilita per terminare il lavoro assegnatoci è stata fissata per i
 - **Il pilota** ha recuperato un drone d'allenamento.
 - **Il copilota** ha cercato i principali software di configurazione dei droni racer come "Drone Racer Setting Manager", "UgCS",           "Freerider", "Open Pilot" elencandone i pregi ed i difetti, ma è stato scelto "CLEANFLIGHT" perchè è un software più leggero e adatto   al drone da gara, a diferrenza di altri programmi che erano troppo pesanti e avevano troppe funzioni a noi inutili.
 
-#**COMMENTO DEL CODICE SORGENTE DI CLEANFLIGHT **
+# **COMMENTO DEL CODICE SORGENTE DI CLEANFLIGHT**
 ![image](https://cloud.githubusercontent.com/assets/25583168/22732747/acb553c0-edef-11e6-988a-0221db9574cc.png)
-I controlli di volo sono usati per poter volare. 
-Questa forcella è diverso da baseflight in quanto tenta di utilizzare le moderne pratiche di sviluppo software che si traducono in:
+Il codice sorgente in informatica è il testo di un algoritmo di un programma scritto in un linguaggio di programmazione.
 
-Maggiore affidabilità attraverso la robustezza del codice e test automatizzati.
-Più facile manutenzione tramite il codice pulizia.
-Più facile sviluppare nuove funzionalità.
-Più facile codice di riutilizzare attraverso il codice disaccoppiamento e modularizzazione.
-Il software MultiWii, da cui ha avuto origine baseflight, viola molti di sviluppo buon software di best practice. Speriamo che questa forcella andrà qualche modo per affrontarle. Se si vede alcun codice male in questa forcella si prega di sollevare immediatamente un problema in modo che possa essere risolto, o meglio ancora inviare una richiesta di pull.
 
