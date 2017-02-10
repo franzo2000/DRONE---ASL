@@ -22,7 +22,6 @@ La scadenza stabilita per terminare il lavoro assegnatoci è stata fissata per i
 - creare un drone di alto valore nel mercato dei droni da corsa.
 
 # **PRIMA LEZIONE**
-
 - **Il surfatore del web** aveva il compito di trovare delle risorse sui droni, commentarle e darle un voto.
     - ABC Droni -> VOTO 10/10. Sito completo, ti permette di acquistare droni e componenti, consultare recensioni con spiegazioni                                      approfondite su come fare volare un drone ed elenca le norme di sicurezza;
     - Rensioni droni -> VOTO 8/10. Sito specializzato in recensioni, test e prove sui migliori droni in commercio,propone dei tutorial                                      interessanti,però si occupa solo di droni professionali,quindi non adeguato per dilettanti; 
@@ -37,5 +36,8 @@ La scadenza stabilita per terminare il lavoro assegnatoci è stata fissata per i
 # **COMMENTO DEL CODICE SORGENTE DI CLEANFLIGHT**
 ![image](https://cloud.githubusercontent.com/assets/25583168/22732747/acb553c0-edef-11e6-988a-0221db9574cc.png)
 Il codice sorgente in informatica è il testo di un algoritmo di un programma scritto in un linguaggio di programmazione. E' scritto con il linguaggio in C, e ci sono dichiarazioni delle variabili. Il file eseguibile del programma si converte in un alfabeto binario, composto da una lunga serie di 0 e 1. Guardando nelle "ISSUES" del sito si vede che ci sono delle discussioni chiamate "Volo autonomo senza alcun input", "dispendio di batteria" ed altri commenti su come far funzionare il programma.
+
+# **SECONDA LEZIONE**
+- **L'artigiano** ha smontato il drone ed ha conservato tutti i pezzi, queste sono le foto scattate dai reporter:
 
 
