@@ -14,7 +14,8 @@ Nella prima lezione di alternanza vi è stato illustrato e spiegato l'argomento 
 - DURATA BATTERIA: 10-14m;
 - PREZZO: 93-262€;                                         
 
-#I TRUMUN                                                                                                                                
+#I    TRUMUN                                                                                                                         ![copia di 2017-02-08-photo-00000248](https://cloud.githubusercontent.com/assets/25583168/22821436/57f63d76-ef7b-11e6-9fb5-ac0fe0f48a26.jpg)
+    
 
 La scadenza stabilita per terminare il lavoro assegnatoci è stata fissata per il  giorno VENERDI 18 FEBBRAIO 2017; inoltre è necessario seguire i seguenti obiettivi entro la data prestabilita:
 - rientrare nell'investimento del budget economico;
