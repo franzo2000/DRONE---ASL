@@ -39,5 +39,6 @@ Il codice sorgente in informatica è il testo di un algoritmo di un programma sc
 
 # **SECONDA LEZIONE**
 - **L'artigiano** ha smontato il drone ed ha conservato tutti i pezzi, queste sono le foto scattate dai reporter:
+![20170208_092544](https://cloud.githubusercontent.com/assets/25583168/22821758/cf4fa938-ef7c-11e6-8fed-1604badf7ab5.jpg)
 
 
