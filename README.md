@@ -47,6 +47,11 @@ Il codice sorgente in informatica è il testo di un algoritmo di un programma sc
 - **Il pilota** ha cercato le modalità di volo ed il funzionamento di un radiocomando;
 - **Il copilota** ha cercato il software di volo ed ha cercato la sua documentazione ufficiale.
 
-
-
-
+# **TERZA LEZIONE**
+- **Il copilota** ha flashato il microcontrollore del drone e lo ha programmato;
+- **Il pilota** ha fatto dei voli di prova ed ha settato il radiocomando;
+- **Il nerd** ha aiutato i copiloti a flashare cleanflight ed ha creato una quarta repo in comune con tutti i gruppi;
+- **L'artigiano** ha generato un segnale PWM ed ha preparato un campo di prova per la prossima lezione;
+- **Il reporter** ha documentato il lavoro dell'artigiano ed ha caricato il tutto su instructables in inglese;
+- **Il surfatore del web** ha cercato caratteristiche, prezzi e marche dei droni da corsa ed ha fatto delle slides sulle gare;
+- **Il mediatore ha fatto delle riunioni di inizio e fine lavoro ed ha cominciato a fare delle slides di presentazione del lavoro finale.
