@@ -40,5 +40,13 @@ Il codice sorgente in informatica è il testo di un algoritmo di un programma sc
 # **SECONDA LEZIONE**
 - **L'artigiano** ha smontato il drone ed ha conservato tutti i pezzi, queste sono le foto scattate dai reporter:
 ![20170208_092544](https://cloud.githubusercontent.com/assets/25583168/22821758/cf4fa938-ef7c-11e6-8fed-1604badf7ab5.jpg)
+- **Il reporter** ha creato un tutorial in stile instructables e documentare con foto tutte le fasi di smontaggio del drone;
+- **Il surfatore del web** ha cercato su internet i pezzi che compongono il drone con il loro prezzo ed ha calcolato il totale della spesa che non doveva superare i 250€;
+- **Il mediatore** ha organizzato tutte le informazioni dei vari membri del gruppo e le hanno date ai nerd, hanno anche fatto riunioni di inizio e fine lavoro;
+- **Il nerd** ha trovato il file sorgente del programma cleanflight e lo ha dato ai copiloti;
+- **Il pilota** ha cercato le modalità di volo ed il funzionamento di un radiocomando;
+- **Il copilota** ha cercato il software di volo ed ha cercato la sua documentazione ufficiale.
+
+
 
 
