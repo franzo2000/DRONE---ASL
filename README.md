@@ -58,12 +58,14 @@ Il codice sorgente in informatica è il testo di un algoritmo di un programma sc
 
 
 Sono state fatte degli esperimenti con vari tipi di eliche, per vedere quella che usava più corrente e che erogava più forza. Qui sotto i dati dell'esperienza:
-ELICA	        Kgf	        A	    f/A
-Standardkit	    0.310	    9.1	    34.06
-Rigida	        0.351   	9.6	    36.56
-5040	        0.345	    9.4	    36.70
-Piccola 	    0.189	    4.4	    42.95
-Pala corta	    0.185	    5.4	    34.26
-2° Pala lunga 	0.267	    8.9	    30.00
-Tripala	        0.280	    9.0	    31.11
+- ELICA	        Kgf	        A	    f/A
+- Standardkit	    0.310	    9.1	    34.06
+- Rigida	        0.351   	9.6	    36.56
+- 5040	        0.345	    9.4	    36.70
+- Piccola 	    0.189	    4.4	    42.95
+- Pala corta	    0.185	    5.4	    34.26
+- 2° Pala lunga 	0.267	    8.9	    30.00
+- Tripala	        0.280	    9.0	    31.1
+
+Finite le lezioni di alternanza si proverà il drone per testare il suo funzionamento. 
 
